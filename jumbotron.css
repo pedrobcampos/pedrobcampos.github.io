@@ -3,11 +3,20 @@ body {
   padding-top: 3.5rem;
 }
 
-.jumbotron #top-banner{
+.container #top-banner{
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+  background-image: url(https://drive.google.com/open?id=1pG1VkErJOnST5AQFoLkphZd4RXwRtGB-);
+  background-size: cover;
+}
+
+
+.jumbotron #top-jumbo{
   padding: 2rem 1rem;
   margin-bottom: 2rem;
   background-color: black;
   border-radius: 0.3rem;
-  background-image: url(https://drive.google.com/open?id=1pG1VkErJOnST5AQFoLkphZd4RXwRtGB-);
-  background-size: cover;
 }
