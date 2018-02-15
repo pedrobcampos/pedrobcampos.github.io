@@ -21,8 +21,8 @@ body {
   border-radius: 0.3rem;
 }
 
-.display-3 #my-name {
-  font-size: 200px !important;
+#display-3 #my-name {
+  font-size: 200px;
 }
 
 .my-button {
