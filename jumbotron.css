@@ -9,5 +9,6 @@ body {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-  background-image: image(url(https://drive.google.com/open?id=1pG1VkErJOnST5AQFoLkphZd4RXwRtGB-));
+  background-image: url(https://drive.google.com/open?id=1pG1VkErJOnST5AQFoLkphZd4RXwRtGB-);
+  background-size: cover;
 }
