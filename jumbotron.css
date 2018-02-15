@@ -32,4 +32,5 @@ body {
 .my-button {
   font-size: 10px;
   color: black;
+  background-image: url("images/rack_back_assembly_half_light.jpg");
 }
