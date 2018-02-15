@@ -23,9 +23,10 @@ body {
 
 h1 .display-3 #my-name {
   font-size: 10px;
+  color: white;
 }
 
 .my-button {
-  font-size: 150px;
+  font-size: 10px;
   color: black;
 }
