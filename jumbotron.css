@@ -25,6 +25,7 @@ body {
   font-size: 200px;
 }
 
-.btn #my-button {
+.my-button {
   font-size: 150px;
+  color: black;
 }
