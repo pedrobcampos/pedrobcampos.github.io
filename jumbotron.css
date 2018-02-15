@@ -22,7 +22,7 @@ body {
 }
 
 .display-3 #my-name {
-  font-size: 200px;
+  font-size: 200px !important;
 }
 
 .my-button {
