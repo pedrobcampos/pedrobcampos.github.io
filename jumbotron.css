@@ -24,3 +24,7 @@ body {
 .display-3 #my-name {
   font-size: 200px;
 }
+
+.btn #my-button {
+  font-size: 150px;
+}
