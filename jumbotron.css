@@ -9,10 +9,12 @@ body {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  /*
   background-repeat: no-repeat;
   width: 75%;
   height: auto;
   min-height: 360px;
+  */
 }
 
 
@@ -22,7 +24,7 @@ body {
   background-image: url("images/banner-2.png");
   background-repeat: no-repeat;
   background-color: black;
-  background-size: cover
+  background-size: cover;
   min-height: 360px;
   min-width: 240px;
   display: block;
