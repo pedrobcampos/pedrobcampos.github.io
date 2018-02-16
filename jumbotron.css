@@ -25,9 +25,9 @@ body {
   background-repeat: no-repeat;
   background-color: black;
   background-size: cover;
-  min-height: 360px;
+  /*min-height: 360px;
   min-width: 240px;
-  display: block;
+  display: block;*/
 }
 
 #my-name {
