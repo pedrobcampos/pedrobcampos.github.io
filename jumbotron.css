@@ -17,10 +17,9 @@ body {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
   background-image: url("images/banner-2.png");
-  background-color: black:
-  background-size: cover;
+  background-color: black;
   background-repeat: no-repeat;
-  /*min-height: 360px;*/
+  min-height: 360px;
   display: block;
 }
 
