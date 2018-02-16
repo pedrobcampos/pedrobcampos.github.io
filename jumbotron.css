@@ -29,12 +29,9 @@ body {
 
 
 #top-jumbo {
-  padding-right: 1px;
-  padding-left: 1px;
-  margin-right: 1px;
-  margin-left: 1px;
-  /*padding: 2rem 1rem;
-  margin-bottom: 2rem;*/
+  padding: 2rem 1rem;
+  margin-bottom: 2rem;
+  background-color: black;
   /*min-height: 360px;
   min-width: 240px;
   display: block;*/
