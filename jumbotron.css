@@ -18,7 +18,7 @@ body {
   background-color: black:
   background-size: cover;
   background-repeat: no-repeat;
-  min-height: 360px;
+  /*min-height: 360px;*/
   display: block;
 }
 
