@@ -22,7 +22,7 @@ body {
   background-image: url("images/banner.png");
   background-size: cover;
   border-radius: 0.3rem;
-  display: inline-block;
+  display: block;
 }
 
 #my-name {
