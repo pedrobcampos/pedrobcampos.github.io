@@ -8,11 +8,12 @@ body {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  background-repeat: no-repeat;
   /*
   width: 100%;
   height: auto;
-  */
   min-height: 360px;
+  */
 }
 
 #top-jumbo {
