@@ -21,6 +21,7 @@ body {
   /*background-color: black;*/
   background-image: url("images/banner-2.png");
   background-size: contain;
+  background-repeat: no-repeat;
   min-height: 240px;
   border-radius: 0.3rem;
   display: block;
