@@ -3,15 +3,14 @@ body {
   padding-top: 3.5rem;
 }
 
-.container #top-banner {
+#top-banner {
   width: 100%;
   padding-right: 15px;
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
-  /*background-image: url("images/banner.png");
   background-size: cover;
-  background-color: black;*/
+  background-color: black;
   display: block;
 }
 
