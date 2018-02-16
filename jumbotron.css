@@ -20,7 +20,7 @@ body {
   margin-bottom: 2rem;
   /*background-color: black;*/
   background-image: url("images/banner-2.png");
-  height: 600px;
+  background-size: cover;
   border-radius: 0.3rem;
   display: block;
 }
