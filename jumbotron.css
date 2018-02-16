@@ -9,6 +9,11 @@ body {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  background-image: url("images/banner-2.png");
+  background-repeat: no-repeat;
+  background-color: black;
+  background-size: cover;
+  min-height: 360px;
   /*
   background-repeat: no-repeat;
   width: 75%;
@@ -21,10 +26,6 @@ body {
 #top-jumbo {
   padding: 2rem 1rem;
   margin-bottom: 2rem;
-  background-image: url("images/banner-2.png");
-  background-repeat: no-repeat;
-  background-color: black;
-  background-size: cover;
   /*min-height: 360px;
   min-width: 240px;
   display: block;*/
