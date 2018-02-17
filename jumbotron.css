@@ -10,11 +10,12 @@ body {
   margin-right: auto;
   margin-left: auto;
   align-items: center;
-  background-image: url("images/banner-3.png");
+  background-image: url("images/banner-full.png");
   background-repeat: no-repeat;
   background-color: black;
   background-size: cover;
-  min-height: 240px;
+  min-height: 20%
+  /*min-height: 240px;*/
   /*
   background-repeat: no-repeat;
   width: 75%;
