@@ -40,8 +40,14 @@ body {
   color: #f4f4f4;
 }
 
+
+
 .my-button {
   display: block;
   font-size: 10px;
   color: black;
+}
+
+.nav-item {
+  font: "Old Style TT", "Helvetica", sans-serif;
 }
